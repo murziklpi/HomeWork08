@@ -34,8 +34,12 @@
           <option name="url" value="https://github.com/DimaKoz/BottomSheetBehavior" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DimaKoz/DemoDrawer" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\KotlinProject" />
+    <option name="cloneParentDir" value="D:\KotlinProject\Lesson07Ui" />
   </component>
 </application>
